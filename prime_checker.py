@@ -13,7 +13,7 @@ def is_prime(number: int) -> bool:
             return False
         divisor += 2
     return True
-
+# comment
 
 def main() -> None:
     try:
